@@ -1,0 +1,4 @@
+﻿power up de escudo
+som da estaca
+som do power up
+High score
